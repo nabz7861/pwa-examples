@@ -73,7 +73,7 @@ var games = [
 	},
 	{
 		slug: 'course10',
-		name: 'course10',
+		name: 'course10s',
 		author: 'Kenneth Banico',
 		twitter: 'kjdesigns671',
 		website: '',
