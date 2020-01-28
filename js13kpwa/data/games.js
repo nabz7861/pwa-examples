@@ -72,8 +72,8 @@ var games = [
 		github: 'github.com/theProgrammerJack/js13k2017'
 	},
 	{
-		slug: 'course10',
-		name: 'course10s',
+		slug: 'course9',
+		name: 'course10',
 		author: 'Kenneth Banico',
 		twitter: 'kjdesigns671',
 		website: '',
